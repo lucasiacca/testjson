@@ -1,4 +1,5 @@
-[{
+[
+    {
 	"title": "Pete's Dragon",
 	"min_TS": "1473519600",
 	"max_TS": "1473604200"
@@ -10,4 +11,5 @@
 	"title": "Finding Dory",
 	"min_TS": "1475262000",
 	"max_TS": "1475418600"
-}]
+}
+]
